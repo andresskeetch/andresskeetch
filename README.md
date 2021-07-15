@@ -14,6 +14,11 @@ I'm a **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a Web UI Developer at Globant
-- 🌱 I’m currently exploring about CI/CD with heroku and git actions
+- 🌱 I’m currently exploring about CI/CD with heroku and git actions.
 - 🤔 My interest lies in front end web development.
 - 📫 Email me at [andres-120397@hotmail.com](mailto:andres-120397@hotmail.com).
+
+
+**Portfolio**
+
+- 👨🏽‍💻 I created app to planing stories with `React`, `Firebase` and deploy at heroku, Go to with this link [Planing Stories](https://planing-news.herokuapp.com/login)
