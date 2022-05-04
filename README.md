@@ -22,3 +22,6 @@ I'm a **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 **Portfolio**
 
 - 👨🏽‍💻 I created app to planing stories with `React`, `Firebase` and deploy at heroku, Go to with this link [Planing Stories](https://planing-news.herokuapp.com/login)
+- I created a editor online to JS with `NextJS` and deploy at netlify, Go to with this link [RUN JS ONLINE](https://main--elaborate-torte-211b32.netlify.app/)
+
+
