@@ -13,7 +13,7 @@ I'm a **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a Web UI Developer at Globant
+- 👨🏽‍💻 I’m currently a Full stack developer at Treinta
 - 🌱 I’m currently exploring about CI/CD with heroku and git actions.
 - 🤔 My interest lies in front end web development.
 - 📫 Email me at [andres-120397@hotmail.com](mailto:andres-120397@hotmail.com).
